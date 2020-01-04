@@ -52,3 +52,9 @@ NOMOR 6
 ![Delete](https://user-images.githubusercontent.com/57278324/71763840-3f3bf700-2f13-11ea-8186-6dab102eaee1.JPG)
 
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>FOOT NOTE
+
+Directory 6C harus ditambahkan dengan file bootstrap agar animasi bootstrap dapat berjalan
+url : https://getbootstrap.com/docs/4.3/getting-started/download/
+
+lalu extract ke CRUD
