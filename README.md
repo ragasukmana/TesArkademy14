@@ -32,6 +32,7 @@ NOMOR 6
 4.2 Tabel Query
 ![query 2](https://user-images.githubusercontent.com/57278324/71763832-2e8b8100-2f13-11ea-862a-1e7b21485b1f.JPG)
 
+
 6B
 
 1. Tampilan Index
