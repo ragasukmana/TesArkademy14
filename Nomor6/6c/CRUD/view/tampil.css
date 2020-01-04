@@ -1,0 +1,53 @@
+*{
+    font-family: sans-serif;
+}
+
+
+p1{
+    font-family: sans-serif;
+    color: black;
+    font-size: x-large;
+    float: left;
+    padding-left: 100px;
+    margin-bottom: 20px;
+    margin-top: -40px;
+    font-weight: bold;
+}
+
+#text2{
+    color: pink;
+}
+#logo{
+    float: left;
+    margin-top: 5x;
+    margin-bottom: 0;
+
+}
+
+#boladd{
+    float: top;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    margin-top: -40px;
+    
+}
+
+header{
+    
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+
+table{
+    width: auto;
+    text-align: center;
+    margin-left: 100px;
+    width: 90%;
+}
+
+
+#headt{
+    color: white;
+    background-color: lightgray;
+}
